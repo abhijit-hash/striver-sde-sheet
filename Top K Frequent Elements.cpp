@@ -17,6 +17,6 @@ public:
             v.push_back(pq.top().second);
             pq.pop();
         }
-        return v;
+        return v
     }
 };
