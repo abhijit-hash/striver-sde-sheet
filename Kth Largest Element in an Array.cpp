@@ -17,6 +17,6 @@ public:
                 pq.push(nums[i]);
             }
         }
-        return pq.top
+        return pq.top();
     }
 };
